@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for visiting my page! I'm Ansh, a 3rd year Engineer at the University of Cambridge (MEng) specialising in Information and Bioengineering.
+
+I'm enthusiastic to learn more about NLP, GNNs, and RL, so do reach out! 
