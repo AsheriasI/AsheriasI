@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Thanks for visiting my page! I'm Ansh, a 4th year Engineer at the University of Cambridge (MEng) specialising in Information and Bioengineering.
 
-I'm enthusiastic to learn more about NLP, GNNs, and RL, so do reach out! 
+I'm enthusiastic to learn more about NLP, GNNs, and RL and ML in general so do reach out! 
